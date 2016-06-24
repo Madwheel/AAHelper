@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AA小助手</string>
+    <string name="tvTopTitle">AA费用小助手</string>
+    <string name="welcome">欢迎您使用AA费用小助手</string>
+    <string name="payoutAdd">记录消费</string>
+    <string name="payoutManage">查询消费</string>
+    <string name="statisticsManage">统计管理</string>
+    <string name="accountBookManage">账本管理</string>
+    <string name="categoryManage">类别管理</string>
+    <string name="userManage">人员管理</string>
+    <string name="hintUserName">人员名称</string>
+
+
+    <string name="titleAdd">新建</string>
+    <string name="titleEdit">修改</string>
+    
+    <string name="titleUser">%s人员</string>
+
+    <string name="buttonTextSave">保存</string>
+    <string name="buttonTextCancel">取消</string>
+
+</resources>
